@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3f8eede-cf63-44c4-a557-c895b3822d70" name="Changes" comment="Create Init Bundle Magic Dialog">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source Code/BundleMagic.lvproj" beforeDir="false" afterPath="$PROJECT_DIR$/Source Code/BundleMagic.lvproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source Code/tests/Large CLuster.vi" beforeDir="false" afterPath="$PROJECT_DIR$/Source Code/tests/Large CLuster.vi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/changelog.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +66,7 @@
       <updated>1711732992261</updated>
       <workItem from="1711732994446" duration="35000" />
       <workItem from="1725945657327" duration="1229000" />
-      <workItem from="1726037320251" duration="298000" />
+      <workItem from="1726037320251" duration="807000" />
     </task>
     <task id="LOCAL-00001" summary="testing use opf PyCharm for source code control and LabVIEW">
       <option name="closed" value="true" />
@@ -93,7 +92,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726037337801</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Create Init Bundle Magic Dialog">
+      <option name="closed" value="true" />
+      <created>1726037640400</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1726037640400</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
