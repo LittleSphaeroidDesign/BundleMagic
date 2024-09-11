@@ -170,11 +170,11 @@ You can add, remove, or rearrange elements from bundle- and unbundle-by-name nod
 - New (Un)Bundle by name and Property Node actions:
   - Nodes with two elements will display “Swap” instead of “Rearrange…” in the contextual menu and will be swapped without a dialog
   - Cluster and property elements can be moved up and down using the “Move Up” and “Move Down” contextual menu items
-- Added short flash dialog when support files are being (re)built
+- Added dialog when support files are being (re)built
 ### Bug Fixes
-- Corrected a bug where (error) cluster terminals on a case structure’s selector tunnel would not present bundle/unbundle menu items
+- Corrected a bug where error cluster terminals on a case structure’s selector tunnel would not present bundle/unbundle menu items
 - Corrected issue on dialog open where cursor would not always appear in filter string control
-- Attempted to correct a bug where removing multiple cluster or property elements (including Removing unwired elements) could cause LabVIEW to crash 
+- Attempted to correct a bug where removing multiple cluster or property elements (including removing unwired elements) could cause LabVIEW to crash 
 - Attempted to correct issue where created Block Diagram items remain selected. (Marching ants are shown but don’t march)
 - Corrected issue where Browse Classes dialog might not show scripting or private classes on load
 - Corrected issue where a dot (“.”) in a cluster element label (eg “Numeric.1”) would prevent most BundleMagic cluster operations to fail
